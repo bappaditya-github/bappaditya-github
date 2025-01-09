@@ -17,7 +17,7 @@ I am a passionate Data Scientist with a PhD in Mathematics, specializing in alge
 - **Software Development Practices:** DevOps, Agile (Scrum), Jira
 
 ## 📊 Projects
-- **Sales Forecasting (In Progress):** Developing a time series forecasting project using ARIMA, Prophet, and LSTM, focusing on EDA and feature engineering.
+- **Sales Forecasting:** Time series forecasting project using ARIMA, Prophet, and LSTM, focusing on EDA and feature engineering.
 - **DNS Tunneling Detection:** Built an ML model for detecting data exfiltration via DNS tunneling, incorporating statistical and behavioral anomaly detection techniques.
 
 ## 🎓 Education
@@ -32,12 +32,12 @@ I am a passionate Data Scientist with a PhD in Mathematics, specializing in alge
 - Statistical Modeling
 
 ## 🌍 Current Work
-- **Data Science Consultant (Remote)**: Working with a Kolkata-based company on data-driven projects.
+- **Data Science Consultant**: Working with a IT Company on data-driven projects.
 
 ## 📫 How to Reach Me
 - **Email:** [bappadityaghosh.tn@gmail.com]
-- **LinkedIn:** [linkedin.com/in/bappaditya-ghosh-904011229/](#)
-- **GitHub:** [github.com/DrBappadityaGhosh](#)
+- **LinkedIn:** [https://www.linkedin.com/in/bappaditya-ghosh-904011229/]
+- **GitHub:** [https://github.com/bappaditya-github]
 
 > "Turning data into insights, one model at a time."
 
