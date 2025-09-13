@@ -2,7 +2,7 @@
 
 🎯 **Data Scientist | Machine Learning Expert | Mathematician**
 
-I am a passionate Data Scientist with a PhD in Mathematics (Algebraic Coding Theory) and postdoctoral research in Cryptography & Security.  
+I am a passionate Data Scientist with a PhD in Mathematics (Data Error Correlation Code) and postdoctoral research in Data Security & Cryptography.  
 With 5+ years of IT industry experience, I have delivered **end-to-end machine learning pipelines** and **AI-driven insights** across telecom, finance, and cybersecurity. My expertise spans both academic research and enterprise consulting.
 
 ---
