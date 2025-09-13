@@ -2,48 +2,52 @@
 
 🎯 **Data Scientist | Machine Learning Expert | Mathematician**
 
-I am a passionate Data Scientist with a PhD in Mathematics, specializing in algebraic coding theory, and extensive experience in statistical modeling, machine learning, and data-driven decision making. I have a strong background in both academic research and industry consulting, with expertise in developing end-to-end machine learning pipelines and driving actionable insights from data.
+I am a passionate Data Scientist with a PhD in Mathematics (Algebraic Coding Theory) and postdoctoral research in Cryptography & Security.  
+With 5+ years of IT industry experience, I have delivered **end-to-end machine learning pipelines** and **AI-driven insights** across telecom, finance, and cybersecurity. My expertise spans both academic research and enterprise consulting.
+
+---
+
+## 🏢 Portfolio Organisation
+👉 Explore my full portfolio of projects here:  
+🔗 [**ghosh-ml-labs**](https://github.com/ghosh-ml-labs)  
+
+Projects are structured across:
+- **Classical Machine Learning** – credit risk, churn prediction, anomaly detection.  
+- **Deep Learning** – CNNs, RNNs, transformers for vision and time series.  
+- **Generative AI** – fine-tuning, RAG pipelines, hallucination evaluation.  
+- **Agentic AI** – secure, multi-tool orchestration with LangGraph.  
+
+---
 
 ## 🧑‍💻 Technical Skills
-- **Programming Languages:** Python, R, C, C++, CUDA, MATLAB, Scala
-- **Machine Learning Frameworks:** Scikit-learn, TensorFlow, Keras, PyTorch
-- **Data Analysis Tools:** NumPy, Pandas, SciPy, Excel
-- **Big Data Technologies:** Apache Spark
-- **Database Management:** SQL, NoSQL
-- **Visualization Tools:** Matplotlib, Power BI
-- **Cloud Computing:** Microsoft Azure, AWS
-- **Version Control:** Git, GitHub
-- **Operating Systems:** Unix, Linux, MacOS, Windows
-- **Software Development Practices:** DevOps, Agile (Scrum), Jira
+- **Languages:** Python, R, C, C++, CUDA, MATLAB, Scala  
+- **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
+- **Data/Big Data:** NumPy, Pandas, Spark, SQL, NoSQL  
+- **Visualisation:** Matplotlib, Power BI  
+- **Cloud:** Microsoft Azure, AWS  
+- **Practices:** Git, CI/CD, DevOps, Agile (Scrum), Jira  
 
-## 📊 Projects
-- **Sales Forecasting:** Time series forecasting project using ARIMA, Prophet, and LSTM, focusing on EDA and feature engineering.
-- **DNS Tunneling Detection:** Built an ML model for detecting data exfiltration via DNS tunneling, incorporating statistical and behavioral anomaly detection techniques.
+---
+
+## 📊 Selected Projects
+- **Sales Forecasting** – Time series forecasting with ARIMA, Prophet, and LSTM.  
+- **DNS Tunneling Detection** – Anomaly detection model for data exfiltration security.  
+- *(More in [ghosh-ml-labs](https://github.com/ghosh-ml-labs))*  
+
+---
 
 ## 🎓 Education
-- PhD in Mathematics, IIT Dhanbad
-- Postdoctoral Researcher, Indian Statistical Institute, Kolkata
+- PhD in Mathematics, IIT Dhanbad  
+- Postdoctoral Research, Indian Statistical Institute, Kolkata  
 
-## 💡 Core Competencies
-- Predictive Analytics
-- Time Series Forecasting
-- Anomaly Detection
-- Data Visualization
-- Statistical Modeling
+---
 
-## 🌍 Current Work
-- **Data Science Consultant**: Working with a IT Company on data-driven projects.
+## 📫 Connect
+- 📧 [Email](mailto:bappadityaghosh.tn@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bappaditya-ghosh-904011229)  
+- 🖥️ [GitHub](https://github.com/bappaditya-github)  
 
-## 📫 How to Reach Me
-- **Email:** [bappadityaghosh.tn@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/bappaditya-ghosh-904011229/]
-- **GitHub:** [https://github.com/bappaditya-github]
+> *"Turning data into insights, one model at a time."*  
 
-> "Turning data into insights, one model at a time."
-
+---
 ⭐ Feel free to explore my repositories and collaborate on exciting projects!
-
-<!---
-bappaditya-github/bappaditya-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
